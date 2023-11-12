@@ -1,2 +1,2 @@
-# Pythom
+# Python
 Btech Python Code Practice
